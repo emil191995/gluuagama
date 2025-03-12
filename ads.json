@@ -1,1 +1,18 @@
-{}
+{
+    "dgway": {
+        "projectName": "dgway",
+        "description": "fvd",
+        "type": "community",
+        "author": "emil191995",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/emil191995/gluuagama",
+        "githubUri": "https://github.com/emil191995/gluuagama",
+        "license": "apache-2.0",
+        "lastUpdated": "1741738228493",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
