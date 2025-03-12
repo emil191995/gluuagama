@@ -13,7 +13,9 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {},
+        "configs": {
+            "cv.vb": {}
+        },
         "name": "dgway"
     }
 }
